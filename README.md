@@ -6,8 +6,6 @@
 </a></p>
 </div>
 
-</br>
-
 ---
 
 ## **ABOUT ME**
@@ -30,7 +28,7 @@
 - F. von Hayek - "_The Road to Serfdom_".
 - C. Petzold - "_Code: Hidden language of Computer Hardware and Software_".
 - D. Carnegie - "_How to Win and Influence People_".
-  </br>
+</br>
 
 ---
 
@@ -57,16 +55,20 @@
 ---
 
 </br>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Azpy?theme=nord&font=Kulim%20Park&ext=activity)](https://leetcode.com/Azpy/)
+<p align="center">
+<a href="https://leetcode.com/azpy/">
+  <img height="180em" src="https://leetcard.jacoblin.cool/Azpy?theme=nord&font=Kulim%20Park&ext=activity)](https://leetcode.com/Azpy/"/>
+</a>
+<a href="https://github.com/Azpyrx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azpyrx&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 </br>
 
 ---
 
 </br>
-
-[![Summary widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Azpyrx&skills=PHP,Java,JavaScript,Html&show-other-skills=true&padding=20&bg=06c2b5)](https://profile.codersrank.io/user/Azpyrx)
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?logo=gmail)](mailto:alexis.az2014@gmail.com/)
 [![SOVFW](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/22610407/azpy)
