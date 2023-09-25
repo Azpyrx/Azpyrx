@@ -22,7 +22,7 @@
 </br>
 :raising_hand: I wanna be myself always, _because there is no time to pretend be someone else_.
 </br>
-:muscle: I love read! above are some of my favorites.
+:muscle: I love read! below are some of my favorites.
 
 - Ayn Rand - _"Atlas Shrugged"_.
 - F. von Hayek - "_The Road to Serfdom_".
