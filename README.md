@@ -2,11 +2,37 @@
 
 <div style="display: flex; justify-content: center;">
   
-![Main](assets\palGITHU.gif)
+![Imgur](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNseDBteW9rdGRmbHYzNXU4MXFpcmtmc3plOHJibTFyNjV0OWJiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93ssSaI7FeCWoPxlJs/giphy-downsized-large.gif)
 
 </div>
 
 </br>
+
+---
+
+## **ABOUT ME**
+
+:alien: I'm currently a DAM student in _**CPR CEBEM**_ at the city of **Vigo, Spain**.
+</br>
+:runner: If i'm not liking, _i'm moving_. I keep what I like.
+</br>
+:icecream: I really enjoy meeting new countries, people and food!
+</br>
+:beers: I _will not say no_, when a project interests me.
+</br>
+:game_die: I love videogames, but I feel I do not have too much time...
+</br>
+:raising_hand: I wanna be myself always, _because there is no time to pretend be someone else_.
+</br>
+:muscle: I love read! above are some of my favorites.
+
+- Ayn Rand - _"Atlas Shrugged"_.
+- F. von Hayek - "_The Road to Serfdom_".
+- C. Petzold - "_Code: Hidden language of Computer Hardware and Software_".
+- D. Carnegie - "_How to Win and Influence People_".
+  </br>
+
+---
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -30,39 +56,9 @@
 
 ---
 
-## **ABOUT ME**
-
-:alien: I'm currently a DAM student in _**CPR CEBEM**_ at the city of **Vigo, Spain**.
-</br>
-:runner: If i'm not liking, _i'm moving_. I keep what I like.
-</br>
-:icecream: I really enjoy meeting new countries, people and food!
-</br>
-:beers: I _will not say no_, when a project interests me.
-</br>
-:game_die: I love videogames, but I feel I do not have too much time...
-</br>
-:raising_hand: I wanna be myself always, \_because there is no time to pretend be someone else\*.
-</br>
-:muscle: I love read! above are some of my favorites.
-
-- Ayn Rand - _"Atlas Shrugged"_.
-- F. von Hayek - "_The Road to Serfdom_".
-- C. Petzold - "_Code: Hidden language of Computer Hardware and Software_".
-- D. Carnegie - "_How to Win and Influence People_".
-  </br>
-
----
-
 </br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-![GitHub](https://github-readme-stats.vercel.app/api?username=Azpyrx&show_icons=true&hide_border=true)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Azpy?theme=wtf&font=Kulim%20Park)](https://leetcode.com/Azpy/)
-
-</div>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Azpy?theme=nord&font=Kulim%20Park&ext=activity)](https://leetcode.com/Azpy/)
 
 </br>
 
