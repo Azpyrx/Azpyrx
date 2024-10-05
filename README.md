@@ -10,7 +10,7 @@
 
 ## **ABOUT ME**
 
-:alien: I'm currently a DAM student in _**IES De Teis**_ at the city of **Vigo, Spain**.
+:alien: I'm currently a DAW student in _**IES De Teis**_ at the city of **Vigo, Spain**.
 </br>
 :runner: If i'm not liking, _i'm moving_. I keep what I like.
 </br>
