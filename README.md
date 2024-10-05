@@ -10,7 +10,7 @@
 
 ## **ABOUT ME**
 
-:alien: I'm currently a DAM student in _**CPR CEBEM**_ at the city of **Vigo, Spain**.
+:alien: I'm currently a DAM student in _**IES De Teis**_ at the city of **Vigo, Spain**.
 </br>
 :runner: If i'm not liking, _i'm moving_. I keep what I like.
 </br>
@@ -19,8 +19,6 @@
 :beers: I _will not say no_, when a project interests me.
 </br>
 :game_die: I love videogames, but I feel I do not have too much time...
-</br>
-:raising_hand: I wanna be myself always, _because there is no time to pretend be someone else_.
 </br>
 :muscle: I love read! below are some of my favorites.
 
