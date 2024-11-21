@@ -12,20 +12,12 @@
 
 :alien: I'm currently a DAW student in _**IES De Teis**_ at the city of **Vigo, Spain**.
 </br>
-:runner: If i'm not liking, _i'm moving_. I keep what I like.
-</br>
 :icecream: I really enjoy meeting new countries, people and food!
-</br>
-:beers: I _will not say no_, when a project interests me.
-</br>
-:game_die: I love videogames, but I feel I do not have too much time...
 </br>
 :muscle: I love read! below are some of my favorites.
 
 - Ayn Rand - _"Atlas Shrugged"_.
 - F. von Hayek - "_The Road to Serfdom_".
-- C. Petzold - "_Code: Hidden language of Computer Hardware and Software_".
-- D. Carnegie - "_How to Win and Influence People_".
 </br>
 
 ---
